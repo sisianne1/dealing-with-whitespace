@@ -18,14 +18,20 @@ html {
 h1 {
   color: #222;
   font-weight: lighter;
-  margin-bottom: 0;
 }
 
 h1 + p {
   font-style: italic;
   font-size: 1.125rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid black;
 }
 
 blockquote p {
   color: #999;
+}
+
+article {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid black;
 }
