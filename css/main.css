@@ -22,9 +22,9 @@ article p {
   border: 1rem;
 }
 
-article ol (
+article ol {
   border: 2rem;
-  )
+}
 
 article h1 {
   color: #222;
